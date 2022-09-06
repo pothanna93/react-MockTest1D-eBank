@@ -1,0 +1,32 @@
+.home-container {
+  border: 1px solid red;
+  min-height: 100vh;
+  background-color: #152850;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.home-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+  width: 100%;
+}
+.logout-btn {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  width: 100px;
+  height: 38px;
+}
+.web-logo {
+  width: 150px;
+}
+.card-title {
+  color: #ffffff;
+}
+.card-image {
+  width: 500px;
+  height: 300px;
+}
